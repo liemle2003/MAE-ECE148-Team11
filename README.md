@@ -30,7 +30,8 @@ Update package index
  `sudo apt update `
 
 # Install nav2 packages
- `sudo apt install ros-<ros-distro>-navigation2 ros-<ros-distro>-nav2-bringup
+`sudo apt install ros-<ros-distro>-navigation2 
+ros-<ros-distro>-nav2-bringup
 source /opt/ros/<ros-distro>/setup.bash `
 
 ## Install livox_ros_driver2 and Livox-SDK/Livox-SDK2 (sent in discord)
