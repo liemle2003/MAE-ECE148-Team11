@@ -21,9 +21,9 @@ To activate ros2:
 
 Git.clone https://github.com/hku-mars/FAST_LIO/tree/ROS2
   - into src in the container (...) 
- `cd ~/path/to/your/container/workspace/src `
- `git clone <url to git hub> `
- `git clone -b ROS2 --single-branch https://github.com/hku-mars/FAST_LIO.git `
+- `cd ~/path/to/your/container/workspace/src `
+- `git clone <url to git hub> `
+- `git clone -b ROS2 --single-branch https://github.com/hku-mars/FAST_LIO.git `
 
 # To get Nav2 stack:
 Update package index
