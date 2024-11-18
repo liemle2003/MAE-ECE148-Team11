@@ -1,6 +1,6 @@
 # MAE-ECE148-Team11 Final Project
 ssh -X jetson@ucsd-yellow.local
-Pw:  jetsonucsd
+
 
 Pulling docker images(files)
 - `cd projects/ `
