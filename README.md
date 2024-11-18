@@ -24,7 +24,9 @@ Git.clone https://github.com/hku-mars/FAST_LIO/tree/ROS2
 - `cd ~/path/to/your/container/workspace/src `
 - `git clone <url to git hub> `
 - `git clone -b ROS2 --single-branch https://github.com/hku-mars/FAST_LIO.git `
+
 OR
+
 vcs import < livox.repox & vcs import < racer.repos
 - `cd ~/path/to/your/container/workspace/src `
 - `vcs import < livox.repos`
