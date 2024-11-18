@@ -1,7 +1,8 @@
 # MAE-ECE148-Team11 Final Project
 ssh -X jetson@ucsd-yellow.local
 Pw:  jetsonucsd
-docker images
+
+Pulling docker images(files)
 cd projects/
 ll
 cd robocar//
@@ -16,7 +17,7 @@ To activate ros2:
 source /opt/ros/foxy/setup.bash
 ros2
 
-All the code has to be in the ros2_ws directory.
+# All the code has to be in the ros2_ws directory.
 
 Git.clone https://github.com/hku-mars/FAST_LIO/tree/ROS2
 Into src in the container
