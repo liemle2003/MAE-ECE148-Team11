@@ -44,4 +44,4 @@ In this code change the Triton AI to hku-mars/FAST LIO…
   - Change IP address of livox_ros_driver2/config/MID360_config.json
   - Change line 28 to 192.168.1.124
 ## Launching Lidar
-ros2 launch livox_ros_driver2 rviz_MID360_launch.py
+`ros2 launch livox_ros_driver2 rviz_MID360_launch.py`
