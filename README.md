@@ -61,9 +61,10 @@ In this code change the Triton AI to hku-mars/FAST LIO…
 `ros2 launch livox_ros_driver2 rviz_MID360_launch.py`
 
 ## Installing Livox-Pointcloud2
+Launch `ros2 run livox_to_pointcloud2 livox_to_pointcloud2_node`
 
 ## Pointcloud-Laserscan
-Launch `ros2 run livox_to_pointcloud2 livox_to_pointcloud2_node`
+
 
 ## Nav2-Costmap
 
