@@ -49,6 +49,10 @@ Develop our own code for
 Check out robocar 
 
 robocar/repos/racer.repos:
+
+# Pointcloud->Laser scan
+- https://github.com/ros-perception/pointcloud_to_laserscan/tree/foxy
+#
 In this code change the Triton AI to hku-mars/FAST LIO… 
 `Git.clone https://github.com/hku-mars/FAST_LIO/tree/ROS2`
   - Change IP address of livox_ros_driver2/config/MID360_config.json
