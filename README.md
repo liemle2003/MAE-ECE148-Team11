@@ -1,6 +1,11 @@
-# MAE-ECE148-Team11 Final Project
-ssh -X jetson@ucsd-yellow.local
+# <div align="center">Need title</div>
+![image](https://github.com/WinstonHChou/winter-2024-final-project-team-7/assets/68310078/0ba1c6cb-c9e0-4cf7-905a-f5f16e6bb2ca)
+### <div align="center"> MAE 148 Final Project </div>
+#### <div align="center"> Team 11 Fall 2024 </div>
 
+
+
+ssh -X jetson@ucsd-yellow.local
 
 Pulling docker images(files)
 - `cd projects/ `
