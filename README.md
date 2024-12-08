@@ -66,6 +66,3 @@ Launch `ros2 run livox_to_pointcloud2 livox_to_pointcloud2_node`
 ## Pointcloud-Laserscan
 
 
-## Nav2-Costmap
-
-1111111
