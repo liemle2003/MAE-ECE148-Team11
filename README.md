@@ -3,7 +3,9 @@
 ### <div align="center"> MAE 148 Final Project </div>
 #### <div align="center"> Team 11 Fall 2024 </div>
 
-
+<div align="center">
+    <img src="images\ucsdrobocar-148-07.webp" width="800" height="600">
+</div>
 
 ssh -X jetson@ucsd-yellow.local
 
