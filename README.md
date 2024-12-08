@@ -4,7 +4,8 @@
 #### <div align="center"> Team 11 Fall 2024 </div>
 
 <div align="center">
-    <img src="images\ucsdyellow-car.jpg" width="800" height="600">
+    <img src="images\ucsdyellow-car.jpg" height="300"> <img src="images\ucsdcart.png" height="300"><br>
+
 </div>
 
 ## Table of Contents
