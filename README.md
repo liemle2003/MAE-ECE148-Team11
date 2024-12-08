@@ -82,58 +82,56 @@ The project was successfully completed using the **Slam-Toolbox** and **ROS2 Nav
 
 ## Hardware 
 
-* __3D Printing:__ Camera Stand, Jetson Nano Case, GPS Plate, Lidar Mount
-* __Laser Cut:__ Base plate to mount electronics and other components.
+* __3D Printing:__ Camera Case & Stand, Jetson Nano Case, Jetson Nano Case, Base Mounts
+* __Laser Cut:__ Base with 3mm holes to mount electronics and other components.
 
 __Parts List__
 
 * Traxxas Chassis with steering servo and sensored brushless DC motor
 * Jetson Nano
-* WiFi adapter
+* LIVOX MID 360
+* Livox three-wire aviation connector
+* Aviation connector power network port cable
 * 64 GB Micro SD Card
-* Adapter/reader for Micro SD Card
-* Logitech F710 controller
-* OAK-D Lite Camera
-* LD19 Lidar (LD06 Lidar)
+* Adapter for micro SD card
+* Wifi Antenna
+* Logitech Controller (F710)
+* OAK-D Lite Camera 
+* SparkFun OpenLog Artemis (IMU)
 * VESC
-* Point One GNSS with antenna
-* Anti-spark switch with power switch
+* XeRUn 3660 G2 Sensored Motor
+* Anti-Spark Switch with Power Switch
 * DC-DC Converter
-* 4-cell LiPo battery
-* Battery voltage checker/alarm
-* DC Barrel Connector
+* 3 cell LIPO Battery
+* Battery Voltage Checker
+* DC Barrel to XT30 Connector
 * XT60, XT30, MR60 connectors
 
-*Additional Parts used for testing/debugging*
+*For Testing:*
 
-* Car stand
-* USB-C to USB-A cable
-* Micro USB to USB cable
-* 5V, 4A power supply for Jetson Nano
+*Car Stand
+*5V, 4A power supply for Jetson Nano
+*USB-C to USB-A cable
+*Micro USB to USB cable
 
-### __Mechanical Design Highlight__
 
-__Base Plate__
+### __Mechanical Designs__
 
-<img src="images\BasePlate_1.webp" height="350"> <img src="images\BasePlate_2.webp" height="350">
+__Base Plate with 3mm Holes__
 
-__Camera Stand__
+<img src="images\baseplate.jpg" height="350">
 
-Camera Stand components were designed in a way that it's an adjustable angle and height This design feature offers versatility and adaptability, ensuring optimal positioning of the camera to capture desired perspectives and accommodate various environments or setups.
+__Adjustable Camera Stand__
 
-<img src="images\Camera_Stand_1.webp" height="160"> <img src="images\Camera_Stand_2.webp" height="160"><br>
-<img src="images\Camera_Stand_3.webp" height="350">
+<img src="images\cameram1.png" height="160"> <img src="images\cameram2.png" height="160"><br>
 
-__GPS Plate__
+__GPS Mount/Stand__
 
-<img src="images\GPS_Plate.webp" height="300">
+<img src="images\gpsstand.jpg" height="300">
 
 __Circuit Diagram__
 
-Our team made use of a select range of electronic components, primarily focusing on the OAK-D Lite camera, Jetson NANO, a GNSS board / GPS, and an additional Seeed Studio XIAO nRF52840 Sense (for IMU usage).
-Our circuit assembly process was guided by a circuit diagram provided by our class TAs.
-
-<img src="images\circuitDiagram.PNG" height="300">
+<img src="images\circuitdiagram.png" height="300">
 
 <hr>
 
