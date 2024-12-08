@@ -33,6 +33,7 @@
 
 ## Team Members
 Liem Le - MAE-Ctrls & Robotics (MC34) - Class of 2025
+Jusung Park- MAE (MC81) - Class of 2025
 
 <hr>
 ## Abstract
