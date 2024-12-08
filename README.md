@@ -32,8 +32,8 @@
 <hr>
 
 ## Team Members
-Liem Le - MAE-Ctrls & Robotics (MC34) - Class of 2025
-Jusung Park- MAE (MC81) - Class of 2025
+- Liem Le - MAE-Ctrls & Robotics (MC34) - Class of 2025
+- Jusung Park- MAE (MC81) - Class of 2025
 
 <hr>
 ## Abstract
@@ -171,7 +171,7 @@ README.md Format, reference to [spring-2023-final-project-team-5](https://github
 ## Contacts
 
 * Liem Le - ltle@ucsd.edu
-*
+* Jusung Park - jup018@ucsd.edu
 * 
 
 
