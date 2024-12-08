@@ -139,7 +139,7 @@ Our circuit assembly process was guided by a circuit diagram provided by our cla
 
 ## Gantt Chart
 <div align="center">
-    <img src="images\gantt_chart.webp" height="500">
+    <img src="images\ganttchart.png" height="500">
 </div>
 <hr>
 
