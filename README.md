@@ -167,6 +167,8 @@ Thanks to TA Winston Chou and Ta Alexander for giving suggestions to our project
 * [UCSD Robocar Framework](https://gitlab.com/ucsd_robocar2)
 * [Slam Toolbox](https://github.com/SteveMacenski/slam_toolbox.git)
 * [Triton AI](https://github.com/Triton-AI)
+* [FAST LIO](https://github.com/hku-mars/FAST_LIO)
+* [OMPL](https://ompl.kavrakilab.org/)
 
 
 README.md Format, reference to [spring-2024-final-project-team-7](https://github.com/UCSD-ECEMAE-148/winter-2024-final-project-team-7)
@@ -179,7 +181,7 @@ README.md Format, reference to [spring-2024-final-project-team-7](https://github
 
 * Liem Le - ltle@ucsd.edu
 * Jusung Park - jup018@ucsd.edu
-* 
+* Anna Hsu - a6hsu@ucsd.edu
 
 
 
