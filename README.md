@@ -66,11 +66,11 @@
 ## Software
 
 ### Laserscan
--
+- Laserscan was another key component to our project which helped enable efficient processing of lidar data for environmental mapping and localization within the ROS2 framework. By using LaserScan data, we were able to detect and visualize the robot’s surroundings in real time, providing a clear 2D representation of spatial layouts. This was also visualized using Rviz2 which optimized visualization settings for clarity.
 ## Fast_Lio and PointCloud
--
+- The Fast LIO was integral to our project, which helped enable integration of lidar odometry and mapping into the ROS2 framework. This setup allowed the robot to process lidar data in real time and generate accurate odometry for localization  while simultaneously creating detailed point cloud representations of the environment. These point clouds were visualized using the tool, Rviz2 and this helped assess the environment in 3D which also helped the robot to map and detect obstacles.
 ### Odometry
-- 
+- The odometry system was crucial for our project, which provided the foundation for accurate localization and navigation within the ROS2 framework. The system allowed the robot to determine its precise position and orientation relative to its environment. This was also visualized using Rviz2, which helped provide a clear and smooth tracking of the robot’s movement.
 
 ## Need to edit the gazebo/more softwares on
 
