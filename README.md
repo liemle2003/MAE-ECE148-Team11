@@ -35,6 +35,7 @@
 - Liem Le - MAE-Ctrls & Robotics (MC34) - Class of 2025
 - Jusung Park- MAE (MC81) - Class of 2025
 - Anna Hsu - ECE (EC27) - Class of 2026
+- Aditya Singh - MAE-Ctrls & Robotics (MC34) - Class of 2025
 
 <hr>
 
